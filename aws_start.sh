@@ -11,7 +11,7 @@
 # Script configuration:
 #
 # ID of your AWS instance.
-AWS_INSTANCE_ID="i-aa643d33"
+AWS_INSTANCE_ID=$AWS_INSTANCE_ID
 # Port that you used in your Jupyter Notebook configuration.
 AWS_NOTEBOOK_PORT=8888
 # Port that you configured in the security group of your AWS instance.
